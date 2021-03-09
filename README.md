@@ -3,3 +3,5 @@ A multi-purpose context-aware smart eyeglasses is being developed to support the
 
 The smart eyeglasses system integrates microcontroller and proximity sensor as follows:
 ![An image](images/eyeglasses.JPG)<!-- .element height="50%" width="50%" -->
+
+The sensors are sampled at 50 Hz. Data is recorded during eating activities and stored on a flash memory. The following pipeline is proposed 
