@@ -1,4 +1,6 @@
 # online_chewing_detection
+
+## Overview
 A multi-purpose context-aware smart eyeglasses is being developed to support the field of automated dietary monitoring. This project provides python implementation of online bite detection algorithm which is able to monitor eating activities in real-time. The algorithm is designed based on timeseries analysis of proximity data, which aims to detect signal pattern at the start (bite) and at the end of chewing signal. The smart eyeglasses system integrates microcontroller and proximity sensors. The sensors are sampled at 50 Hz. 
 
 ![An image](images/eyeglasses.JPG)<!-- .element height="50%" width="50%" -->
@@ -11,7 +13,10 @@ Signal swing that goes up dramatically can be observed clearly before and during
 
 ![An image](images/signal.JPG)<!-- .element height="10%" width="10%" -->
 
-Future work includes the development of context recognition database for different daily activities such as walking, exercising and working at a desk. The database can also be utilized for supervised learning algorithm development in the future.
 
-# Wiki
+## Wiki
 Simply run 
+
+## Future work
+
+Future work includes the development of context recognition database for different daily activities such as walking, exercising and working at a desk. The database can also be utilized for supervised learning algorithm development in the future.
