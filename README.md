@@ -13,6 +13,9 @@ Signal swing that goes up dramatically can be observed clearly before and during
 
 ![An image](images/signal.JPG)<!-- .element height="10%" width="10%" -->
 
+The test results show the algorithm can achieve a recognition performance of 80.95% by selecting a certain classifier. 
+
+![An image](images/roc.jpg)<!-- .element height="10%" width="10%" -->
 
 ## Wiki
 Run bite_detection.ipynb to see algorithm's workflow step by step. Sample recording is provided in this repository.
