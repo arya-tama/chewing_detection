@@ -1,13 +1,12 @@
 # online_bite_detection
 
 ## Overview
-A multi-purpose context-aware smart eyeglasses is being developed to support the field of automated dietary monitoring. The smart eyeglasses system integrates microcontroller and proximity sensors. The sensors are sampled at 50 Hz.  This project provides python implementation of online bite detection algorithm. The code can be ported to C/C++ that is widely used in microcontroller programming. Hence, the algorithm is able to monitor eating activities in real-time. It is designed based on timeseries analysis of proximity data, which aims to detect signal pattern at the start (bite) and at the end of chewing signal. 
+A multi-purpose context-aware smart eyeglasses is being developed to support the field of automated dietary monitoring. The smart eyeglasses system integrates microcontroller and proximity sensors. The sensors are sampled at 50 Hz.  This project provides python implementation of online bite detection algorithm. The code can be ported to C/C++ that is widely used in microcontroller programming. Hence, the algorithm is able to monitor eating activities in real-time. It is designed based on timeseries analysis of proximity data, which aims to detect signal pattern at the start (bite) and at the end of chewing signal. The scenario used for recording: before chewing, during chewing and after chewing. Recording files are stored on a flash memory for further analysis. A pipeline is proposed for bite detection algorithm.
 
-![An image](images/eyeglasses.JPG)<!-- .element height="50%" width="50%" -->
-
-The scenario used for recording: before chewing, during chewing and after chewing. Recording files are stored on a flash memory for further analysis. The following pipeline is proposed for bite detection algorithm:
-
-![An image](images/pipeline.JPG)<!-- .element height="10%" width="10%" -->
+<p float="left">
+  <img src="images/eyeglasses.JPG" width="300" />
+  <img src="images/pipeline.JPG" width="600" /> 
+</p>
 
 Signal swing that goes up dramatically can be observed clearly before and during chewing. Thus, standard deviation is computed to recognize bite event in a windowed signal. Values of starting point, end point and lowest point are further observed to match typical 'trench' at the beginning of bite event. Similar approach is implemented to detect the end of chewing.
 
