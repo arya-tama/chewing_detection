@@ -5,7 +5,7 @@ A multi-purpose context-aware smart eyeglasses is being developed to support the
 
 <p float="left">
   <img src="images/eyeglasses.JPG" width="300" />
-  <img src="images/pipeline.JPG" width="550" /> 
+  <img src="images/pipeline.JPG" width="500" /> 
 </p>
 
 Signal swing that goes up dramatically can be observed clearly before and during chewing. Thus, standard deviation is computed to recognize bite event in a windowed signal. Values of starting point, end point and lowest point are further observed to match typical 'trench' at the beginning of bite event. Similar approach is implemented to detect the end of chewing.
