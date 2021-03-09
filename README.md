@@ -12,3 +12,6 @@ Signal swing that goes up dramatically can be observed clearly before and during
 ![An image](images/signal.JPG)<!-- .element height="10%" width="10%" -->
 
 Future work includes the development of context recognition database for different daily activities such as walking, exercising and working at a desk. The database can also be utilized for supervised learning algorithm development in the future.
+
+# Wiki
+Simply run 
