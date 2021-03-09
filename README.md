@@ -5,4 +5,4 @@ The smart eyeglasses system integrates microcontroller and proximity sensor as f
 ![An image](images/eyeglasses.JPG)<!-- .element height="50%" width="50%" -->
 
 The sensors are sampled at 50 Hz. Data is recorded during eating activities and stored on a flash memory. The following pipeline is proposed for bite detection algorithm:
-![An image](images/pipeline.JPG)<!-- .element height="50%" width="50%" -->
+![An image](images/pipeline.JPG)<!-- .element height="20%" width="20%" -->
