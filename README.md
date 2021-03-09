@@ -15,7 +15,7 @@ Signal swing that goes up dramatically can be observed clearly before and during
 
 Based on 20 different tests, the algorithm can achieve a recognition performance of 80.95% by selecting a certain classifier. It shows our online bite detection has a good potential for further development.
 
-![An image](images/roc.png)<!-- .element height="10%" width="10%" -->
+![An image](images/roc.png)<!-- .element height="50%" width="50%" -->
 
 ## Wiki
 Run bite_detection.ipynb to see algorithm's workflow step by step. Sample recording is provided in this repository.
