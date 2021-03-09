@@ -16,8 +16,8 @@ Signal swing that goes up dramatically can be observed clearly before and during
 Test results show the algorithm can achieve a recognition performance of 80.95% by selecting a certain classifier. This promising outcome implies this approach has a good potential for further development.
 
 <p float="left">
-  <img src="images/detection.png" width="200" />
-  <img src="images/roc.png" width="200" /> 
+  <img src="images/detection.png" width="400" />
+  <img src="images/roc.png" width="350" /> 
 </p>
 
 ## Wiki
