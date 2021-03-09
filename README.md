@@ -15,7 +15,7 @@ Signal swing that goes up dramatically can be observed clearly before and during
 
 
 ## Wiki
-Run bite_detection.ipynb to see how the algorithm works step by step. Sample recording is provided in this repository.
+Run bite_detection.ipynb to see algorithm's workflow step by step. Sample recording is provided in this repository.
 
 ## Future work
 
