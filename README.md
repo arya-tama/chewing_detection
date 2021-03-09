@@ -5,7 +5,7 @@ A multi-purpose context-aware smart eyeglasses is being developed to support the
 
 ![An image](images/eyeglasses.JPG)<!-- .element height="50%" width="50%" -->
 
-The scenario used for recording: before chewing, during chewing and after chewing. Recording files are stored on a flash memory for further analysis. A pipeline is proposed for bite detection algorithm:
+The scenario used for recording: before chewing, during chewing and after chewing. Recording files are stored on a flash memory for further analysis. The following pipeline is proposed for bite detection algorithm:
 
 ![An image](images/pipeline.JPG)<!-- .element height="10%" width="10%" -->
 
