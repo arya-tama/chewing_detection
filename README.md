@@ -9,7 +9,7 @@ The scenario used for recording: before chewing, during chewing and after chewin
 
 ![An image](images/pipeline.JPG)<!-- .element height="10%" width="10%" -->
 
-Signal swing that goes up dramatically can be observed clearly before and during chewing. Thus, standard deviation is computed to recognize bite event in a windowed signal. Values of starting point, end point and lowest point are also computed to match typical 'trench' at the beginning of bite event. Similar approach is implemented to detect the end of chewing.
+Signal swing that goes up dramatically can be observed clearly before and during chewing. Thus, standard deviation is computed to recognize bite event in a windowed signal. Values of starting point, end point and lowest point are further observed to match typical 'trench' at the beginning of bite event. Similar approach is implemented to detect the end of chewing.
 
 ![An image](images/signal.JPG)<!-- .element height="10%" width="10%" -->
 
