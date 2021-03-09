@@ -7,7 +7,7 @@ The smart eyeglasses system integrates microcontroller and proximity sensor as f
 The sensors are sampled at 50 Hz. The scenario used for recording: before chewing, during chewing and after chewing. Recording files are stored on a flash memory for further analysis. The following pipeline is proposed for bite detection algorithm:
 ![An image](images/pipeline.JPG)<!-- .element height="10%" width="10%" -->
 
-The change of signal swing that goes up dramatically can be observed clearly before and during chewing. Thus, standard deviation is computed to recognize bite event in a windowed signal. Values of starting point, end point and lowest point are also computed for shape matching of typical 'trench' at the beginning of bite event. Similar approach is implemented to detect end of chewing
+The change of signal swing that goes up dramatically can be observed clearly before and during chewing. Thus, standard deviation is computed to recognize bite event in a windowed signal. Values of starting point, end point and lowest point are also computed to match typical 'trench' at the beginning of bite event. Similar approach is implemented to detect the end of chewing.
 ![An image](images/bite.png)<!-- .element height="10%" width="10%" -->
 ![An image](images/end.png)<!-- .element height="10%" width="10%" -->
 
