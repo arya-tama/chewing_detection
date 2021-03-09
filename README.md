@@ -15,7 +15,7 @@ Signal swing that goes up dramatically can be observed clearly before and during
 
 
 ## Wiki
-Simply run 
+Simply un jupyter notbebook bite_detection.ipynb. Sample recording is provided in this repository.
 
 ## Future work
 
