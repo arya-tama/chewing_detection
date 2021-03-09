@@ -13,7 +13,7 @@ Signal swing that goes up dramatically can be observed clearly before and during
 
 ![An image](images/signal.JPG)<!-- .element height="10%" width="10%" -->
 
-The test results show the algorithm can achieve a recognition performance of 80.95% by selecting a certain classifier. 
+Based on 20 different tests, the algorithm can achieve a recognition performance of 80.95% by selecting a certain classifier. It shows our online bite detection has a good potential for further development.
 
 ![An image](images/roc.png)<!-- .element height="10%" width="10%" -->
 
