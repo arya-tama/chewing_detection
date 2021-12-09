@@ -19,7 +19,6 @@ Test results show the algorithm can achieve a recognition performance of 80.95% 
   <img src="images/roc.png" width="350" /> 
 </p>
 
-
 ## Wiki
 Run bite_detection.ipynb to see algorithm's workflow step by step. Sample recording is provided in this repository.
 
